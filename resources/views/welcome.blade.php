@@ -43,9 +43,9 @@
                 <div class="brand-logo">
                     <a href="#">
                         <!-- light version logo (logo must be black)-->
-                        <img src="./image/logo-amigos.png" alt="" class="light-version-logo w-25">
+                        <img src="./image/logo-amigos.png" alt="" class="light-version-logo w-50">
                         <!-- Dark version logo (logo must be White)-->
-                        <img src="./image/logo-amigos.png" alt="" class="dark-version-logo w-25">
+                        <img src="./image/logo-amigos.png" alt="" class="dark-version-logo w-50" >
                     </a>
                 </div>
                 <div class="menu-block-wrapper">
@@ -110,7 +110,7 @@
                 <div class="col-xxl-6 col-xl-7 col-lg-8 col-md-11 order-lg-1 order-1" data-aos="fade-right" data-aos-duration="800" data-aos-once="true">
                     <div class="content text-center">
                         <h1>Amigos Solidários</h1>
-                        <p>Nós somos um grupo de amigos, que busca levar amor, carinho e um pouco de esperança para aqueles que não são vistos pela sociedade.
+                        <p>Nós somos um grupo que busca levar esperança e amor para aqueles que não são vistos pela sociedade. No final somos todos iguais, em tempos diferentes.
                         </p>
                         <a href="#" class="btn">DOAÇÃO</a>
                         <span>PIX disponível</span>
@@ -133,9 +133,9 @@
                         <div class="circle-dot-1">
                             <i class="fas fa-circle"></i>
                         </div>
-                        <h4>Transparência</h4>
-                        <p>Create custom landing pages with
-                            Shade that convert more visitors than any website.</p>
+                        <h4>Missão:</h4>
+                        <p>Promover transformação social  em pessoas de vulnerabilidade, oferecendo mantimentos, roupas, e empatia. Inspirando bons valores a comunidade geral.
+                        </p>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-9">
@@ -143,9 +143,9 @@
                         <div class="circle-dot-2">
                             <i class="fas fa-circle"></i>
                         </div>
-                        <h4>Faster Communication</h4>
-                        <p>Create custom landing pages with
-                            Shade that convert more visitors than any website.</p>
+                        <h4>Visão:</h4>
+                        <p>Ser uma organização reconhecida por praticar solidariedade e transformação pessoal.
+                        </p>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-9">
@@ -153,9 +153,8 @@
                         <div class="circle-dot-3">
                             <i class="fas fa-circle"></i>
                         </div>
-                        <h4>Everything in One Place</h4>
-                        <p>Create custom landing pages with
-                            Shade that convert more visitors than any website.</p>
+                        <h4>Valores:</h4>
+                        <p>Preservação de valores sociais, empatia, honestidade, amor, transparência e respeito pela diversidade.</p>
                     </div>
                 </div>
             </div>
@@ -321,21 +320,21 @@
             <div class="row justify-content-center">
                 <div class="col-xl-9 col-lg-11 col-md-12">
                     <div class="content text-center">
-                        <p>We are proud to have some big brands as our customer</p>
+                        <p>Parceiros</p>
                     </div>
-                    <div class="brand-area-l-17-items d-flex justify-content-center justify-content-xl-between align-items-center flex-wrap ">
+                    <div class="brand-area-l-17-items d-flex justify-content-center align-items-center flex-wrap ">
                         <div class="single-brand " data-aos="fade-right" data-aos-duration="500" data-aos-once="true">
-                            <img src="image/l8/brand-logo-1.svg" alt="">
+                            <img style="height: 200px" src="image/bg-1.jpeg" alt="">
                         </div>
                         <div class="single-brand " data-aos="fade-right" data-aos-duration="700" data-aos-once="true">
-                            <img src="image/l8/brand-logo-2.svg" alt="">
+                            <img style="height: 200px" src="image/bg-2.jpeg" alt="">
                         </div>
-                        <div class="single-brand " data-aos="fade-right" data-aos-duration="900" data-aos-once="true">
-                            <img src="image/l8/brand-logo-3.svg" alt="">
-                        </div>
-                        <div class="single-brand " data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">
-                            <img src="image/l8/brand-logo-4.svg" alt="">
-                        </div>
+{{--                        <div class="single-brand " data-aos="fade-right" data-aos-duration="900" data-aos-once="true">--}}
+{{--                            <img src="image/l8/brand-logo-3.svg" alt="">--}}
+{{--                        </div>--}}
+{{--                        <div class="single-brand " data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">--}}
+{{--                            <img src="image/l8/brand-logo-4.svg" alt="">--}}
+{{--                        </div>--}}
                     </div>
                 </div>
             </div>
