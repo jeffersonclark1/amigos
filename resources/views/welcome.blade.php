@@ -118,7 +118,7 @@
                 </div>
                 <div class="col-xl-8 col-lg-9 order-lg-1 order-0">
                     <div class="hero-area-image">
-                        <img src="./image/amigos-back" alt="" class="w-100">
+                        <img src="./image/amigos-back.jpg" alt="" class="w-100">
                     </div>
                 </div>
             </div>
@@ -508,7 +508,7 @@
 <script src="./js/vendor.min.js"></script>
 <!-- Plugin's Scripts -->
 <script src="./plugins/fancybox/jquery.fancybox.min.js"></script>
-<script src="./plugins/aos/aos.min.js'"></script>
+<script src="./plugins/aos/aos.min.js"></script>
 <script src="./plugins/menu/menu.js"></script>
 <!-- Activation Script -->
 <script src="./js/custom.js"></script>
