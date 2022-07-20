@@ -508,7 +508,7 @@
 <script src="./js/vendor.min.js"></script>
 <!-- Plugin's Scripts -->
 <script src="./plugins/fancybox/jquery.fancybox.min.js"></script>
-<script src=" {{ asset('plugins/aos/aos.min.js') }} "></script>
+<script src="./plugins/aos/aos.min.js'"></script>
 <script src="./plugins/menu/menu.js"></script>
 <!-- Activation Script -->
 <script src="./js/custom.js"></script>
